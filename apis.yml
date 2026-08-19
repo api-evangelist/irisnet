@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/irisnet.pn
 name: Irisnet
 description: "Realtime content moderation API that blocks or blurs unwanted images in real-time"
 url: https://irisnet.de/api/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
