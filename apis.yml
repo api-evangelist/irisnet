@@ -33,20 +33,21 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
   - Public APIs
+  - Machine-Learning
 apis:
   - name: Irisnet
     description: "Realtime content moderation API that blocks or blurs unwanted images in real-time"
     humanURL: https://irisnet.de/api/
-    baseURL: https://irisnet.de/api/
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://irisnet.de/api/
